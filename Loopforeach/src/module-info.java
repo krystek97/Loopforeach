@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author Krystian
+ *
+ */
+module loopforeach {
+}
